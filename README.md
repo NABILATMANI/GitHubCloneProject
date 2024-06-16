@@ -1,4 +1,1 @@
-"This is the description of my repo" 
-"Modification in main branch." 
-"Modification in main branch." 
-"Modification in main branch." 
+"Objective: Practice creating branches, merging branches, and resolving conflicts." 
